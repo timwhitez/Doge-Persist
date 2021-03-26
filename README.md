@@ -2,9 +2,10 @@
 Windows Persistence Collection
 
 
-## goFuckserv
+## goFuckServ
 使用golang添加windows服务
 
+[goFuckServ](goFuckServ/readme.md)
 
 
 
