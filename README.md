@@ -2,6 +2,9 @@
 Windows Persistence Collection
 
 
+## goFuckserv
+使用golang添加windows服务
+
 
 
 
