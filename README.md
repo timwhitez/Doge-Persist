@@ -5,6 +5,8 @@ Windows Persistence Collection
 ## goFuckServ
 使用golang添加windows服务
 
+在2020年免杀过一段时间360，后来在各种活动用的多了就被杀了
+
 [goFuckServ](goFuckServ/readme.md)
 
 
